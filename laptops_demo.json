@@ -1,0 +1,400 @@
+{"index": {"_index": "laptops-demo", "_id": 1}}
+{"id": 1, "name": "HP EliteBook 820 G2", "price": 38842.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-5500U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 2}}
+{"id": 2, "name": "Lenovo IdeaPad Y700-15", "price": 9405.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-6300HQ"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 3}}
+{"id": 3, "name": "HP ProBook 640 G2", "price": 17589.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-6200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "128GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 4}}
+{"id": 4, "name": "HP EliteBook 840 G3", "price": 31905.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-6200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 5}}
+{"id": 5, "name": "HP EliteBook 820 G3", "price": 34890.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-6500U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 6}}
+{"id": 6, "name": "HP EliteBook x360 1030 G2", "price": 35985.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 7}}
+{"id": 7, "name": "HP EliteBook 840 G3", "price": 25465.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-6200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 8}}
+{"id": 8, "name": "Lenovo ThinkPad T470s", "price": 22164.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 9}}
+{"id": 9, "name": "HP EliteBook 840 G3", "price": 22209.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-6500U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 10}}
+{"id": 10, "name": "Lenovo ThinkPad P51", "price": 26715.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7700HQ"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 11}}
+{"id": 11, "name": "HP ZBook 15 Studio G4", "price": 45175.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7820HQ"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 12}}
+{"id": 12, "name": "HP EliteBook x360 1030 G2", "price": 36495.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 13}}
+{"id": 13, "name": "HP ZBook 15 G4", "price": 35979.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7700HQ"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 14}}
+{"id": 14, "name": "HP ZBook 17 G4", "price": 39615.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7700HQ"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 15}}
+{"id": 15, "name": "HP ZBook 15 Studio G4", "price": 41519.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7820HQ"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 16}}
+{"id": 16, "name": "HP EliteBook x360 1030 G2", "price": 37985.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7300U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 17}}
+{"id": 17, "name": "HP EliteBook x360 1030 G2", "price": 39605.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7300U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 18}}
+{"id": 18, "name": "HP EliteBook x360 1030 G2", "price": 41545.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 19}}
+{"id": 19, "name": "HP EliteBook x360 1030 G2", "price": 43930.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7600U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 20}}
+{"id": 20, "name": "HP EliteBook x360 1030 G2", "price": 9990.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7600U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 21}}
+{"id": 21, "name": "HP EliteBook x360 1030 G2", "price": 53179.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7600U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 22}}
+{"id": 22, "name": "HP EliteBook 850 G4", "price": 32425.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7500U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "1TB"}]}
+{"index": {"_index": "laptops-demo", "_id": 23}}
+{"id": 23, "name": "HP ZBook 15 Studio G4", "price": 51395.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7820HQ"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 24}}
+{"id": 24, "name": "HP EliteBook x360 1030 G2", "price": 38885.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 25}}
+{"id": 25, "name": "HP ZBook 15 G3", "price": 39069.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-6820HQ"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 26}}
+{"id": 26, "name": "HP ProBook 450 G5", "price": 9980.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 27}}
+{"id": 27, "name": "HP ProBook 470 G5", "price": 12145.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 28}}
+{"id": 28, "name": "ASUS VivoBook X540LA-DM1083T", "price": 3895.0, "brand": "Asus", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i3-5005U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "128GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 29}}
+{"id": 29, "name": "HP Spectre x360 13-AE080no", "price": 33566.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 30}}
+{"id": 30, "name": "HP EliteBook 1040 G4", "price": 31715.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 31}}
+{"id": 31, "name": "HP EliteBook 1040 G4", "price": 32949.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7500U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 32}}
+{"id": 32, "name": "HP EliteBook 1040 G4", "price": 47765.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7500U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 33}}
+{"id": 33, "name": "Lenovo V330-15", "price": 9474.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 34}}
+{"id": 34, "name": "Lenovo ThinkPad E480", "price": 14988.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 35}}
+{"id": 35, "name": "Lenovo ThinkPad T480s", "price": 22644.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 36}}
+{"id": 36, "name": "Lenovo ThinkPad L480", "price": 8990.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 37}}
+{"id": 37, "name": "Lenovo ThinkPad X280", "price": 23490.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 38}}
+{"id": 38, "name": "Lenovo ThinkPad X380 Yoga", "price": 20057.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 39}}
+{"id": 39, "name": "Lenovo ThinkPad T580", "price": 23872.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 40}}
+{"id": 40, "name": "Lenovo ThinkPad T480", "price": 21020.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 41}}
+{"id": 41, "name": "Dell Latitude 7390", "price": 13428.0, "brand": "Dell", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 42}}
+{"id": 42, "name": "HP EliteBook 830 G5", "price": 26715.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 43}}
+{"id": 43, "name": "HP EliteBook 840 G5", "price": 26239.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 44}}
+{"id": 44, "name": "HP EliteBook 850 G5", "price": 19499.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 45}}
+{"id": 45, "name": "HP EliteBook 830 G5", "price": 25624.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 46}}
+{"id": 46, "name": "HP EliteBook 830 G5", "price": 18499.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 47}}
+{"id": 47, "name": "HP EliteBook 840 G5", "price": 26425.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 48}}
+{"id": 48, "name": "HP EliteBook 850 G5", "price": 29175.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 49}}
+{"id": 49, "name": "HP EliteBook 840 G5", "price": 30495.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 50}}
+{"id": 50, "name": "HP EliteBook 840 G5", "price": 32145.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 51}}
+{"id": 51, "name": "HP EliteBook 840 G5", "price": 27389.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 52}}
+{"id": 52, "name": "Lenovo ThinkPad X1 Carbon", "price": 26796.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 53}}
+{"id": 53, "name": "Lenovo ThinkPad T480s", "price": 28886.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 54}}
+{"id": 54, "name": "Lenovo ThinkPad X1 Yoga", "price": 35613.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 55}}
+{"id": 55, "name": "HP EliteBook x360 1030 G2", "price": 40050.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7500U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 56}}
+{"id": 56, "name": "HP EliteBook 830 G5", "price": 29965.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 57}}
+{"id": 57, "name": "HP EliteBook x360 1030 G2", "price": 41399.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7600U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 58}}
+{"id": 58, "name": "HP EliteBook 830 G5", "price": 25875.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 59}}
+{"id": 59, "name": "Lenovo ThinkPad L380", "price": 12172.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i3-8130U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 60}}
+{"id": 60, "name": "HP ZBook 15u G5", "price": 37739.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 61}}
+{"id": 61, "name": "HP ZBook 15 G5", "price": 41329.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 62}}
+{"id": 62, "name": "HP ZBook 17 G5", "price": 44495.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 63}}
+{"id": 63, "name": "HP ZBook Studio G5", "price": 35449.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 64}}
+{"id": 64, "name": "HP EliteBook 840 G5", "price": 23945.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 65}}
+{"id": 65, "name": "HP ZBook 14u G5", "price": 37185.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 66}}
+{"id": 66, "name": "HP ZBook Studio x360 G5", "price": 16339.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 67}}
+{"id": 67, "name": "HP ZBook Studio x360 G5", "price": 54575.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "32GB"}, {"attribute_name": "storage", "attribute_value": "1TB"}]}
+{"index": {"_index": "laptops-demo", "_id": 68}}
+{"id": 68, "name": "HP ZBook 15 G5", "price": 31490.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 69}}
+{"id": 69, "name": "HP ZBook 17 G5", "price": 46285.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 70}}
+{"id": 70, "name": "Lenovo V130-15", "price": 6297.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 71}}
+{"id": 71, "name": "HP ZBook 15 G5", "price": 32145.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 72}}
+{"id": 72, "name": "HP ZBook 17 G5", "price": 35039.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 73}}
+{"id": 73, "name": "HP EliteBook 840 G5", "price": 22939.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 74}}
+{"id": 74, "name": "HP EliteBook 850 G5", "price": 30059.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 75}}
+{"id": 75, "name": "HP EliteBook 850 G5", "price": 25715.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 76}}
+{"id": 76, "name": "HP EliteBook 830 G5", "price": 24950.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 77}}
+{"id": 77, "name": "HP ZBook 15v G5", "price": 16616.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 78}}
+{"id": 78, "name": "HP ZBook 15v G5", "price": 16490.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 79}}
+{"id": 79, "name": "HP ZBook 15v G5", "price": 35404.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 80}}
+{"id": 80, "name": "HP ZBook 17 G5", "price": 27689.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 81}}
+{"id": 81, "name": "HP EliteBook x360 1030 G3", "price": 42269.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 82}}
+{"id": 82, "name": "HP EliteBook 830 G5", "price": 25985.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 83}}
+{"id": 83, "name": "HP EliteBook x360 1030 G3", "price": 36975.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 84}}
+{"id": 84, "name": "HP EliteBook x360 1030 G3", "price": 40455.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 85}}
+{"id": 85, "name": "Lenovo V330-14", "price": 8482.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 86}}
+{"id": 86, "name": "Lenovo ThinkPad T580", "price": 16867.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 87}}
+{"id": 87, "name": "HP EliteBook x360 1030 G3", "price": 30536.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 88}}
+{"id": 88, "name": "HP ProBook x360 440 G1", "price": 15205.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 89}}
+{"id": 89, "name": "HP EliteBook x360 1030 G3", "price": 31378.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 90}}
+{"id": 90, "name": "HP EliteBook x360 1030 G3", "price": 31319.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 91}}
+{"id": 91, "name": "HP EliteBook 830 G5", "price": 24353.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 92}}
+{"id": 92, "name": "HP EliteBook x360 1030 G2", "price": 45895.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7600U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 93}}
+{"id": 93, "name": "HP EliteBook 840 G5", "price": 25179.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 94}}
+{"id": 94, "name": "HP EliteBook 830 G5", "price": 29829.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 95}}
+{"id": 95, "name": "HP ProBook x360 440 G1", "price": 14344.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 96}}
+{"id": 96, "name": "Lenovo ThinkPad X280", "price": 11672.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 97}}
+{"id": 97, "name": "Lenovo ThinkPad T480", "price": 11470.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 98}}
+{"id": 98, "name": "Lenovo ThinkPad P72", "price": 18565.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 99}}
+{"id": 99, "name": "Lenovo ThinkPad P1", "price": 18745.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 100}}
+{"id": 100, "name": "Lenovo ThinkPad P1", "price": 40809.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 101}}
+{"id": 101, "name": "Lenovo V130-15", "price": 4490.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i3-6006U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "128GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 102}}
+{"id": 102, "name": "HP EliteBook x360 1030 G3", "price": 27309.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 103}}
+{"id": 103, "name": "HP EliteBook x360 1030 G3", "price": 34984.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 104}}
+{"id": 104, "name": "HP EliteBook x360 1030 G3", "price": 23579.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 105}}
+{"id": 105, "name": "HP Omen 15-", "price": 29308.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 106}}
+{"id": 106, "name": "HP EliteBook 840 G5", "price": 27275.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 107}}
+{"id": 107, "name": "HP EliteBook 840 G5", "price": 35450.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "1TB"}]}
+{"index": {"_index": "laptops-demo", "_id": 108}}
+{"id": 108, "name": "HP EliteBook 840 G5", "price": 28935.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 109}}
+{"id": 109, "name": "HP EliteBook 840 G5", "price": 22199.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 110}}
+{"id": 110, "name": "HP EliteBook 840 G5", "price": 28519.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 111}}
+{"id": 111, "name": "HP EliteBook 850 G5", "price": 23419.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 112}}
+{"id": 112, "name": "HP ZBook 15 Studio G5", "price": 40769.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 113}}
+{"id": 113, "name": "Dell Latitude 7490", "price": 12209.0, "brand": "Dell", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 114}}
+{"id": 114, "name": "HP EliteBook 830 G5", "price": 24155.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 115}}
+{"id": 115, "name": "HP EliteBook 830 G5", "price": 23855.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8350U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 116}}
+{"id": 116, "name": "Lenovo ThinkPad T580", "price": 16643.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 117}}
+{"id": 117, "name": "Lenovo ThinkPad T480", "price": 11363.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 118}}
+{"id": 118, "name": "Lenovo ThinkPad T480s", "price": 22644.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 119}}
+{"id": 119, "name": "HP ZBook 17 G5", "price": 36515.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "528GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 120}}
+{"id": 120, "name": "HP ZBook Studio G5", "price": 44903.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8850H"}, {"attribute_name": "memory", "attribute_value": "32GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 121}}
+{"id": 121, "name": "HP ZBook 17 G5", "price": 34645.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8750H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 122}}
+{"id": 122, "name": "Asus VivoBook S14 S430FA-EB039R", "price": 9000.0, "brand": "Asus", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 123}}
+{"id": 123, "name": "Lenovo ThinkPad L390", "price": 9490.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 124}}
+{"id": 124, "name": "HP ProBook x360 440 G1", "price": 16655.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 125}}
+{"id": 125, "name": "HP EliteBook x360 1030 G3", "price": 42420.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8650U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 126}}
+{"id": 126, "name": "HP EliteBook x360 1040 G5", "price": 32760.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 127}}
+{"id": 127, "name": "HP EliteBook x360 1040 G5", "price": 29565.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 128}}
+{"id": 128, "name": "HP ProBook 440 G6", "price": 9994.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 129}}
+{"id": 129, "name": "Lenovo Legion Y740-15", "price": 29495.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-9750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "1TB"}]}
+{"index": {"_index": "laptops-demo", "_id": 130}}
+{"id": 130, "name": "Lenovo ThinkPad E490", "price": 8631.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-7500U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "128GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 131}}
+{"id": 131, "name": "Apple MacBook Air", "price": 16795.0, "brand": "Apple", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8210Y"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 132}}
+{"id": 132, "name": "Apple MacBook Pro", "price": 18990.0, "brand": "Apple", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8279U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 133}}
+{"id": 133, "name": "Lenovo Legion Y740-15", "price": 19987.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8300H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "128GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 134}}
+{"id": 134, "name": "Apple MacBook Pro", "price": 16490.0, "brand": "Apple", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8279U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 135}}
+{"id": 135, "name": "Lenovo ThinkPad L490", "price": 10505.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8565U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 136}}
+{"id": 136, "name": "Lenovo ThinkPad T490", "price": 12974.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 137}}
+{"id": 137, "name": "Lenovo ThinkPad P53s", "price": 25701.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8665U"}, {"attribute_name": "memory", "attribute_value": "32GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 138}}
+{"id": 138, "name": "Lenovo ThinkPad P53s", "price": 22305.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8565U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 139}}
+{"id": 139, "name": "Lenovo Legion Y540-15", "price": 21355.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-9750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 140}}
+{"id": 140, "name": "HP EliteBook x360 830 G6", "price": 18495.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 141}}
+{"id": 141, "name": "HP EliteBook x360 830 G6", "price": 23135.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 142}}
+{"id": 142, "name": "HP EliteBook x360 830 G6", "price": 21474.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 143}}
+{"id": 143, "name": "HP ZBook 15 G6", "price": 49038.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "32GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 144}}
+{"id": 144, "name": "HP ZBook 14u G6", "price": 14759.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "16GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 145}}
+{"id": 145, "name": "HP ZBook 17 G5", "price": 53855.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "16GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 146}}
+{"id": 146, "name": "HP ZBook Studio x360 G5", "price": 45250.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8300H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 147}}
+{"id": 147, "name": "HP ZBook 17 G5", "price": 70769.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "16GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 148}}
+{"id": 148, "name": "HP ZBook 15u G6", "price": 18245.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 149}}
+{"id": 149, "name": "HP ZBook 14u G6", "price": 22380.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 150}}
+{"id": 150, "name": "HP ZBook 15u G6", "price": 33321.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 151}}
+{"id": 151, "name": "HP ZBook 15 G6", "price": 39045.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 152}}
+{"id": 152, "name": "HP ZBook Studio G5", "price": 31293.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8300H"}, {"attribute_name": "memory", "attribute_value": "32GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 153}}
+{"id": 153, "name": "HP ZBook 15u G6", "price": 17579.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 154}}
+{"id": 154, "name": "HP ZBook Studio x360 G5", "price": 26199.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8300H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 155}}
+{"id": 155, "name": "HP ZBook 15u G6", "price": 16915.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 156}}
+{"id": 156, "name": "HP EliteBook 830 G6", "price": 22995.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 157}}
+{"id": 157, "name": "HP ProBook 650 G5", "price": 11799.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 158}}
+{"id": 158, "name": "Apple MacBook Pro", "price": 30349.0, "brand": "Apple", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i9-9880H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "1024GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 159}}
+{"id": 159, "name": "Apple MacBook Pro", "price": 27489.0, "brand": "Apple", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-9750H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 160}}
+{"id": 160, "name": "HP Spectre x360 13-", "price": 19990.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-1035G4"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 161}}
+{"id": 161, "name": "Lenovo ThinkPad T490s", "price": 16839.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 162}}
+{"id": 162, "name": "Lenovo ThinkPad X1 Carbon", "price": 21490.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 163}}
+{"id": 163, "name": "Lenovo ThinkPad X1 Carbon", "price": 25853.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8565U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "1024GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 164}}
+{"id": 164, "name": "Lenovo ThinkPad X1 Carbon", "price": 21657.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 165}}
+{"id": 165, "name": "Lenovo ThinkPad X1 Carbon", "price": 17990.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8565U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 166}}
+{"id": 166, "name": "Asus ZenBook 15 UX534FTC-PURE2", "price": 14990.0, "brand": "Asus", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-10510U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 167}}
+{"id": 167, "name": "Lenovo ThinkPad X1 Carbon", "price": 26055.0, "brand": "Lenovo", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8665U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 168}}
+{"id": 168, "name": "HP EliteBook 840 G6", "price": 27296.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 169}}
+{"id": 169, "name": "HP ZBook 14u G6", "price": 35599.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 170}}
+{"id": 170, "name": "HP ZBook 15 G6", "price": 15219.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "32GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 171}}
+{"id": 171, "name": "HP EliteBook 830 G6", "price": 27691.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 172}}
+{"id": 172, "name": "HP EliteBook 840 G6", "price": 9994.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 173}}
+{"id": 173, "name": "HP ZBook 14u G6", "price": 30072.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 174}}
+{"id": 174, "name": "HP ZBook 15v G5", "price": 12792.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8300H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 175}}
+{"id": 175, "name": "HP EliteBook x360 1040 G6", "price": 19337.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 176}}
+{"id": 176, "name": "HP ProBook 450 G6", "price": 14800.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-4200M"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 177}}
+{"id": 177, "name": "HP EliteBook 840 G6", "price": 22273.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 178}}
+{"id": 178, "name": "HP EliteBook 830 G5", "price": 28690.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-7200U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 179}}
+{"id": 179, "name": "HP ProBook 640 G5", "price": 11395.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 180}}
+{"id": 180, "name": "HP EliteBook 850 G6", "price": 13785.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 181}}
+{"id": 181, "name": "HP EliteBook x360 1030 G4", "price": 16768.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 182}}
+{"id": 182, "name": "HP ProBook 640 G5", "price": 13949.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8250U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 183}}
+{"id": 183, "name": "HP EliteBook x360 1030 G4", "price": 24600.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 184}}
+{"id": 184, "name": "Apple MacBook Pro", "price": 32989.0, "brand": "Apple", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i9-9880H"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "1024GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 185}}
+{"id": 185, "name": "HP ZBook 14u G6", "price": 27919.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 186}}
+{"id": 186, "name": "HP EliteBook x360 1040 G6", "price": 26399.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 187}}
+{"id": 187, "name": "HP ProBook 450 G6", "price": 14228.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 188}}
+{"id": 188, "name": "HP ZBook 15 G6", "price": 51959.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 189}}
+{"id": 189, "name": "HP ZBook 15v G5", "price": 41599.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8300H"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 190}}
+{"id": 190, "name": "HP ZBook 15 G6", "price": 37849.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 191}}
+{"id": 191, "name": "HP EliteBook x360 1030 G4", "price": 20990.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8550U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 192}}
+{"id": 192, "name": "HP ProBook 650 G5", "price": 13999.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 193}}
+{"id": 193, "name": "HP EliteBook 840 G6", "price": 13351.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 194}}
+{"id": 194, "name": "HP ProBook 450 G6", "price": 15975.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i7-8565U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "512GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 195}}
+{"id": 195, "name": "HP ProBook 450 G6", "price": 13109.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 196}}
+{"id": 196, "name": "HP ZBook 14u G6", "price": 29919.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 197}}
+{"id": 197, "name": "HP ZBook 15 G6", "price": 46600.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "8GB"}, {"attribute_name": "storage", "attribute_value": "256GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 198}}
+{"id": 198, "name": "HP ZBook 14u G6", "price": 33307.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "16GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 199}}
+{"id": 199, "name": "HP ZBook 14u G6", "price": 34559.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
+{"index": {"_index": "laptops-demo", "_id": 200}}
+{"id": 200, "name": "HP ZBook 14u G6", "price": 31949.0, "brand": "HP", "attributes": [{"attribute_name": "cpu", "attribute_value": "Intel Core i5-8265U"}, {"attribute_name": "memory", "attribute_value": "4GB"}, {"attribute_name": "storage", "attribute_value": "8GB"}]}
