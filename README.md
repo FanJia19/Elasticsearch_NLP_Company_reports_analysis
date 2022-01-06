@@ -1,2 +1,2 @@
-# Company_reports_analysis_with_Elasticsearch
+# Company reports analysis with Elasticsearch & NLP
 Apply Elasticsearch in text analysis of company ESG reports and compare it with other NLP techniques
